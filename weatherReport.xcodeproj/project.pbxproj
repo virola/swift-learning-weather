@@ -47,6 +47,7 @@
 		E750BE671D13EB3C001037E2 /* weatherReportUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weatherReportUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E750BE6B1D13EB3C001037E2 /* weatherReportUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherReportUITests.swift; sourceTree = "<group>"; };
 		E750BE6D1D13EB3C001037E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E750BE791D13EE81001037E2 /* loadWeather.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = loadWeather.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				E750BE521D13EB3C001037E2 /* Assets.xcassets */,
 				E750BE541D13EB3C001037E2 /* LaunchScreen.storyboard */,
 				E750BE571D13EB3C001037E2 /* Info.plist */,
+				E750BE791D13EE81001037E2 /* loadWeather.playground */,
 			);
 			path = weatherReport;
 			sourceTree = "<group>";
